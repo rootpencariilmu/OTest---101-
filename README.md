@@ -4,7 +4,7 @@
 
 <h1 align="center">Onboarding Tutorial</h1>
 
-<h4 align="center">This Gatsby project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
+<h4 align="center">This Gatsby project was created in <a href="https://pl90z.sse.codesandbox.io/" target="_blank">Ahmad Chen Wang Xuesi</a> – design tool for creating websites and web apps</h4>
 
 
 <p align="center">
@@ -61,19 +61,19 @@ $ npm run build
 - Static Site Generator
 - Server-side Rendering
 
-# 💡 About [Quarkly](https://quarkly.io)
+# 💡 About [Quarkly](https://pl90z.sse.codesandbox.io/)
 <p>
 A unique tool for webmasters, designers and developers.
 <br>
 Here you can create websites and web apps quickly, conveniently and beautifully.
 </p>
 
-- [Documentation](https://quarkly.io/docs)
-- [Features](https://quarkly.io/features)
-- [Updates](https://quarkly.io/updates)
-- [GitHub](https://github.com/quarkly)
-- [Twitter](https://twitter.com/quarklyapp)
-- [Spectrum](https://spectrum.chat/quarkly)
+- [Documentation](https://pl90z.sse.codesandbox.io/docs)
+- [Features](https://pl90z.sse.codesandbox.io/features)
+- [Updates](https://pl90z.sse.codesandbox.io/updates)
+- [GitHub](https://github.com/rootpencariilmu)
+- [Twitter](https://twitter.com/anonymousid)
+- [Codesandbox](https://pl90z.sse.codesandbox.io)
 
 # 📝 License
 Licensed under the [MIT License](./LICENSE).
